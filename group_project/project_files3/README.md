@@ -1,11 +1,4 @@
-#####################################################################################
-### If you let Heeseob Park (z5375037@ad.unsw.edu.au) know your Google Drive gmail, 
-### Heeseob Park can give you the authority to run these files on Google colab
-### and access to the sample dataset on Google Drive as you posted in group project forum:
-### 
-### "by Omar Ghattas - Wednesday, 20 April 2022, 2:45 PM
-### I will reach out when grading, please add instructions in your submission to remind me"
-#####################################################################################
+
 ### 0. File desciption
 
 ##### About our project codes
